@@ -1,0 +1,1 @@
+using vagrant, virtual box we created virtual machine/virtual enviroment that would allow us to code on out local machines instead of using a sandbox. The repository is an exercise that was fully done from our local machines.
